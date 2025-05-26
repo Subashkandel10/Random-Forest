@@ -34,7 +34,7 @@ The application is built with Streamlit and provides an intuitive interface for 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sandeshkuikel07/Random-Forest.git
+git clone https://github.com/subashkandell0/Random-Forest.git
 
 ```
 
